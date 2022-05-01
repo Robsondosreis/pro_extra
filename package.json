@@ -1,0 +1,23 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "treinamento",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robsondosreis/pro_extra.git"
+  },
+  "author": "\"Robson dos Reis\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robsondosreis/pro_extra/issues"
+  },
+  "homepage": "https://github.com/Robsondosreis/pro_extra#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
